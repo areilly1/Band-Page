@@ -1,0 +1,36 @@
+body {
+	background-color: #ff9ced;   
+}
+img{
+    width: 150px;    
+}
+
+.font {
+	font-family: 'Indie Flower', cursive;
+}
+
+.mainImage {
+    border: double red 5px;
+}
+
+.albums {
+ 	color: white;   
+}
+
+.dates {
+	color: #0024a3;   
+    font-family: 'Piedra', cursive;
+}
+
+.hide {
+    display: none;
+}
+
+.button {
+ display: none;   
+}
+
+.images {
+    display: flex; 
+    justify-content: space-around;
+}
